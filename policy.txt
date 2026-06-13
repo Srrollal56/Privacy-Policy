@@ -1,0 +1,17 @@
+Privacy Policy for n8n Local Integration
+
+This Privacy Policy governs the manner in which this local integration collects, uses, maintains, and discloses information collected from users.
+
+1. Personal Identification Information
+We may collect personal identification information from Users only when they explicitly authorize the Google OAuth connection to integrate their own Gmail/Google services with their local n8n instance.
+
+2. How We Use Collected Information
+Any data accessed through this Google OAuth integration (such as email data) is processed strictly within the user's local environment or self-hosted n8n instance. No data is shared, sold, or transmitted to third parties.
+
+3. Data Protection
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information.
+
+4. Changes to This Privacy Policy
+This local integration has the discretion to update this privacy policy at any time. 
+
+By using this integration, you signify your acceptance of this policy.
