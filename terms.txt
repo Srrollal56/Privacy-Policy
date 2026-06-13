@@ -1,0 +1,16 @@
+Terms of Service for n8n Local Integration
+
+1. Acceptance of Terms
+By authorizing this local integration with your Google Account, you agree to be bound by these Terms of Service. This is a self-hosted, local integration meant for personal and development use.
+
+2. Description of Service
+This integration connects a local or self-hosted instance of n8n with Google APIs (such as Gmail) to automate workflows. The service runs entirely within the infrastructure controlled by the user.
+
+3. User Responsibilities
+You are solely responsible for the configuration, security, and data processed by your local n8n instance. You agree not to use this integration for malicious activities, spamming, or violating Google's Developer Terms of Service.
+
+4. Disclaimer of Warranty
+This integration is provided "as is" without any warranties of any kind. The developer is not liable for any data loss, service interruptions, or issues arising from the use of this local setup.
+
+5. Modifications
+These terms may be updated at any time to reflect changes in the local deployment setup.
